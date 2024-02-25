@@ -16,7 +16,7 @@ class _AIXOGamePageState extends State<AIXOGamePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('XO Game'),
+        title: const Text('AI XO'),
       ),
       body: Center(
         child: Column(
