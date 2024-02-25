@@ -41,6 +41,17 @@ class _HomepageState extends State<Homepage> {
                 ),
               );
             },
+          ),
+          ListTile(
+            title: const Text('Local One vs One 4x4'),
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const FourxfourXOGamePage(),
+                ),
+              );
+            },
           )
         ],
       ),
