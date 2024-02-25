@@ -10,7 +10,7 @@ XO Game is a simple Tic-Tac-Toe game built with Flutter.
 
 ## Screenshots
 
-[Add screenshots of your app here]
+
 
 ## Getting Started
 
