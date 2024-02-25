@@ -19,5 +19,4 @@ To run the app locally on your machine, follow these steps:
 1. Ensure you have Flutter installed. If not, you can follow the instructions [here](https://flutter.dev/docs/get-started/install).
 2. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your_username/xo_game.git
+  
